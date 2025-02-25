@@ -1,0 +1,22 @@
+* {
+    color: white;
+}
+
+body {
+    background-color: rgb(54, 20, 73);
+    color: white;
+}
+
+#titulo {
+    color: #00ffff;
+    font-size: 65px;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
