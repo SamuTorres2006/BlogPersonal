@@ -1,0 +1,52 @@
+* {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background: linear-gradient(rgb(29, 117, 76), rgb(36, 128, 128));
+}
+
+#titulo1 {
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+}
+
+#titulo2 {
+    color: #ffee00;
+    font-size: 50px;
+}
+#titulo3 {
+    color:#ffee00;
+    font-size: 35px;
+}
+
+#titulo4, #titulo5 {
+    color:rgb(0, 0, 0);
+}
+
+#titulo6 {
+    font-size: 35px;
+}
+
+#texto1 {
+    font-size: 19.5px;
+}
+
+td {
+    text-align: center;
+}
+
+a {
+    color:cyan;
+    text-decoration: none;
+}
+
+table {
+    margin: auto;
+    border: rgb(255, 174, 0);
+}
+
+ul {
+    list-style-type: style type discl;;
+}
