@@ -1,5 +1,5 @@
 * {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 body {
@@ -7,25 +7,26 @@ body {
 }
 
 #titulo1 {
-    color: #000000;
+    color: #c52424;
     font-size: 60px;
     text-align: center;
 }
 
 #titulo2 {
-    color: #ffee00;
+    color: #ffffff;
     font-size: 50px;
 }
 #titulo3 {
-    color:#ffee00;
+    color:#ffffff;
     font-size: 35px;
 }
 
 #titulo4, #titulo5 {
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
 }
 
 #titulo6 {
+    color: #ffffff;
     font-size: 35px;
 }
 
@@ -48,5 +49,15 @@ table {
 }
 
 ul {
-    list-style-type: style type discl;;
+    list-style-type: style type discl;
+}
+
+li {
+    color: rgb(255, 255, 255);
+    font-size: 19.5px;
+}
+
+span {
+    font-size: 20px;
+    color: rgb(165, 0, 0)
 }
