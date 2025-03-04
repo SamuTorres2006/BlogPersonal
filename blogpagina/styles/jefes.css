@@ -1,0 +1,22 @@
+* {
+    background-color: antiquewhite;
+}
+
+body, html {
+    height: 100%;
+}
+
+.contenedor {
+    position: relative;
+    height: 100%;    
+}
+
+.imagen {
+    border: 5px solid rebeccapurple;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+}
