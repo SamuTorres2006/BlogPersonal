@@ -1,3 +1,43 @@
+body {
+    background: linear-gradient(to top right, red, rgb(255, 145, 0));
+}
+
 * {
-    background-color: teal;
+    margin: 0px;
+}
+
+.titulo1 {
+    color: rgb(0, 255, 242);
+    text-align: center;
+    font-size: 70px;
+}
+.texto1 {
+    margin: 10px;
+    font-size: 25px;
+}
+
+.titulo2 {
+    padding: 10px;
+    color: white;
+    font-size: 60px;
+}
+
+li {
+    margin: 5px;
+    font-size: 25px;
+}
+
+span {
+    color: white;
+}
+
+.titulo3 {
+    padding: 10px;
+    color: white;
+    font-size: 35px;
+}
+
+.anuncio{
+    border: 5px solid white;
+    margin-bottom: 20px;
 }

@@ -1,0 +1,65 @@
+body {
+    background: linear-gradient(rgb(196, 196, 0), rgb(0, 206, 137));
+}
+
+.titulo1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.texto1 {
+    margin: 15px;
+    font-size: 25px;
+}
+
+.titulo2 {
+    margin: 15px;
+    font-size: 35px;
+}
+
+li {
+    margin: 25px;
+    font-size: 20px;
+}
+
+.titulo3 {
+    margin: 15px;
+    font-size: 35px;
+}
+
+.personajes {
+    border: 3px solid blue;
+    display: flex;
+    padding: 15px;
+    margin: 15px;
+}
+
+span {
+    font-size: 25px;
+    color: red;
+}
+
+p {
+    margin: 8px;
+    font-size: 20px;
+}
+
+.imagen {
+    filter: grayscale(100%);
+}
+
+.imagen:hover {
+    filter: grayscale(0%);
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.chevere {
+    width: 70%;
+    height: 70%;
+}
+
+.titulo4 {
+    font-size: 38px;
+}
