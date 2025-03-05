@@ -36,13 +36,15 @@ li {
 }
 
 span {
-    font-size: 25px;
+    font-size: 38px;
     color: red;
 }
 
 p {
+    display: flex;
+    align-items: center;
     margin: 8px;
-    font-size: 20px;
+    font-size: 35px;
 }
 
 .imagen {
